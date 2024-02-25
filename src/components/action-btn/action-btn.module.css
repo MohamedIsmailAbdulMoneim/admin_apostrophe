@@ -1,0 +1,17 @@
+.form__submit-container {
+  grid-column: 1/-1;
+  position: relative;
+}
+
+.form__submit {
+  position: absolute;
+  top: -5px;
+  right: 2px;
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  background-color: #2560df;
+  outline: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}

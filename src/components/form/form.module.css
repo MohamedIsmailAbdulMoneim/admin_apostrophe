@@ -1,0 +1,7 @@
+.form__container {
+  display: grid;
+  grid-template-columns: 0.2fr 2fr;
+  align-items: center;
+  row-gap: 1.5rem;
+  margin-top: 2rem;
+}

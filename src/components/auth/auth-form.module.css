@@ -1,0 +1,46 @@
+.container {
+  width: 50vw;
+  margin: 100px auto;
+  background-color: azure;
+}
+
+.form__container {
+  width: 650px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px 100px;
+}
+
+.form__heading {
+  font-size: 36px;
+  text-align: center;
+  align-self: center;
+}
+
+.input__label {
+  display: block;
+}
+
+.input__component {
+  display: block;
+  width: 454px;
+  height: 56px;
+  border: 0.5px solid #e3e3e3;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.action__btn {
+  margin-top: 16px;
+  width: 454px;
+  height: 55px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  background-color: #eb5017;
+  font-size: 16;
+  color: white;
+}

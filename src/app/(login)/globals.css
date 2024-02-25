@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: #e5e5f7;
+  opacity: 0.9;
+  background-image: radial-gradient(#000000 0.2px, transparent 0.2px),
+    radial-gradient(#000000 0.2px, #e5e5f7 0.2px);
+  background-size: 8px 8px;
+  background-position: 0 0, 4px 4px;
+}

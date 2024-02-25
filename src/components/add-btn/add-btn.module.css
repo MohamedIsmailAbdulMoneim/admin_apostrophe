@@ -1,0 +1,14 @@
+.btn:link,
+.btn:visited {
+  position: absolute;
+  bottom: -40px;
+  right: 2px;
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  background-color: #2560df;
+  outline: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
